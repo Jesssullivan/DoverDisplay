@@ -6,6 +6,13 @@
 
 
 A stylish demo enclosure for the Xilinx / Digilent Genesys 2 with a display panel.  
+  
+Check out what Dover Microsystems is up to here:
+https://www.dovermicrosystems.com/
+  
+Prototyping & production @ the D&M Makerspace- see what else we're up to:
+https://makerspace.plymouthcreate.net/
+
 
 ### Electronics:
 
