@@ -30,8 +30,9 @@ https://makerspace.plymouthcreate.net/
 
 |Size   |Type|
 |---    |--- |
-|12"x12"|1/4" (6.35mm) clear acrylic sheet|
-|24"x12"| 3mm acrylic sheet               |
+|12"x12"|1/4" (6.35mm) clear acrylic sheet      |
+|24"x12"| 3mm acrylic sheet                     |
+|~40 grams| printer plastic (filament or resin) |
 
 
 *Hardware:*
