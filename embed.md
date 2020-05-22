@@ -1,6 +1,6 @@
 ### [Laser, material layout available here via tinkercad](https://www.tinkercad.com/things/5ameulV7Vhl)
-  
-    <br>
+
+
   
   
 ### [Take a look at Version 5 here!](https://a360.co/2T7qDpi)
