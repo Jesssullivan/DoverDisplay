@@ -1,11 +1,16 @@
-### [Laser, material layout available here via tinkercad](https://www.tinkercad.com/things/5ameulV7Vhl)
 
 
+### [Take a look at Version 6 here!](https://a360.co/36RBUQ1)
   
   
-### [Take a look at Version 5 here!](https://a360.co/2T7qDpi)
+ <br> 
+    
+    
+### [or version 5 here](https://a360.co/2T7qDpi)
 
 <iframe src="https://myhub.autodesk360.com/ue2819a04/shares/public/SH56a43QTfd62c1cd968e942e13e9a9be6bf?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+#### [v5 laser, material layout available here via tinkercad](https://www.tinkercad.com/things/5ameulV7Vhl)
 
 ---
 
