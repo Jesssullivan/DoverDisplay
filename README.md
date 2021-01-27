@@ -69,7 +69,6 @@ An FPGA can simulate (sometimes called "emulate") logical circuits, and is repro
 
 
 | ***Additional iterations*** | [![.](http://img.youtube.com/vi/tClsJNgJHt4/0.jpg)](https://www.youtube.com/watch?v=tClsJNgJHt4 ".") |
-
-| ![](archive/unnamed1.jpg) | ![](archive/unnamed2.jpg) |
 |---    |---  |
+| ![](archive/unnamed1.jpg) | ![](archive/unnamed2.jpg) |
 | ![Alt text](LaserCuts.gif?raw=true) |![](archive/unnamed.jpg) |
